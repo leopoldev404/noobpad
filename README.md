@@ -1,2 +1,3 @@
 # noobpad
-Are you tired of having to open notepad to take notes? Are you a a tech dude whol likes to use his terminal to do as many tasks as possible? Noobpad to rescue, the first cli app that allows you to open take a notes like a pro without leaving your terminal!
+
+Tired of the hassle of opening Notepad for quick notes? Love doing everything right from your terminal? Noobpad is here to save the day! The ultimate CLI tool to jot down notes like a pro—fast, lightweight, and 100% terminal-friendly. Take notes, stay productive, and never leave your flow! 🚀
